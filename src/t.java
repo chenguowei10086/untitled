@@ -7,7 +7,7 @@ public class t {
         System.out.println("master ");
         System.out.println("hot22");
         System.out.println("push-push");
-
-
+        System.out.println("push-pull");
+        System.out.println("push-pull");
     }
 }
